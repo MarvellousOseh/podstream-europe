@@ -102,7 +102,7 @@ const Index = () => {
 
             {/* Voting Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8 max-w-2xl mx-auto">
-              <a href="#" className="w-full sm:w-auto">
+              <a href="https://m.facebook.com/?wtsid=rdr_0vNULgRPtzxpJkZzC" className="w-full sm:w-auto">
                 <Button
                   className="w-full sm:w-auto bg-gradient-to-r from-primary to-accent hover:opacity-90 text-white border-0 h-12 px-8"
                 >
@@ -112,7 +112,7 @@ const Index = () => {
                   Vote with Google
                 </Button>
               </a>
-              <a href="#" className="w-full sm:w-auto">
+              <a href="https://m.facebook.com/?wtsid=rdr_0vNULgRPtzxpJkZzC" className="w-full sm:w-auto">
                 <Button
                   className="w-full sm:w-auto bg-gradient-to-r from-[#1DB954] to-[#1ed760] hover:opacity-90 text-white border-0 h-12 px-8"
                 >
